@@ -7,4 +7,5 @@ y = 81 #asignando valor a la variable
 raiz = math.sqrt(y) #acumulando la raíz cuadrada de la variable  y en una variable llamada raíz
 
 # impresión  en cónsola de la variable raíz
+#pr
 print(f"La raíz cuadrada de {y} es : {raiz}")
