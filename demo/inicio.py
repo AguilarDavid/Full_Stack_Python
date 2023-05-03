@@ -1,1 +1,1 @@
-print("Hola Full Satack Python")
+print("Hola Full Stack Python")

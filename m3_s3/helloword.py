@@ -25,8 +25,10 @@ if True:
     if True:
         print("indentacion en python")
 
+
 #separación de bloques de codigo con 2 lineas hacia abajo
 print("separacion de bloques de codigo con 2 lineas hacia abajo")
+
 
 #tipos de datos
 print(type(5)) #int <clas 'int'>
